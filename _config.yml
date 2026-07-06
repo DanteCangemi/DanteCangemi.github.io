@@ -25,8 +25,8 @@ description              : "Wildlife Photography."
 url                      : "https://dantecangemi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "DanteCangemi/DanteCangemi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "YellowCrownedNightHeron_52-DxO_DeepPRIME XD3Photolabed-1.tif'" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/YellowCrownedNightHeron_52-DxO_DeepPRIME XD3Photolabed-1.jpg'" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/SelfImage.JPEG" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
