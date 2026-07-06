@@ -110,6 +110,19 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 # Social Sharing
 twitter:
   username               :
